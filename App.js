@@ -14,7 +14,9 @@ class UI {
       <div class="card text-center mb-4">
         <div class="card-body">
           <strong>Product Name</strong>: ${product.name}
+          <br />
           <strong>Product Price</strong>: ${product.price}
+          <br />
           <strong>Product Year</strong>: ${product.year}
           <a href="#" class="btn btn-danger" name="delete">Borrar</a>
         </div>
